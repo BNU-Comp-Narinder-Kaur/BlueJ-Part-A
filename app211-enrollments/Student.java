@@ -12,9 +12,9 @@ public class Student
     // A unique 8 digit BNU identifier
     private int id;
     // the student's full name
-    private String name;
+    private String name; 
     // The course the student is enrolled on
-    private Course course;
+    private Course course; 
     
     /**
      * Create a new student with a given name and ID number.

@@ -6,12 +6,14 @@ import java.util.*;
  *
  * @author Derek Peacock
  * @version 1.0 14/07/2021
+ * modified by Narinder Kaur
+ * 31/10/2021
  */
 public class Course
 {
     // A unique identifier e.g. BT1CTG1
     private String code;
-    // The full title including qualification and subject
+    // The full title including qualification and subject 
     private String title;
     
     /**
