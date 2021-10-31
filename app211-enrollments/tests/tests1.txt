@@ -5,3 +5,26 @@ Narinder.printCourse();
     Exception occurred.
 Narinder.print();
  Student ID: 22029379 Name: Narinder Kaur
+Course Computing = new Course("BT1CTG1", "Bsc.Computing");
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: Bsc.Computing
+
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: Bsc.Computing
+
+Narinder.enrol(Computing);
+Narinder.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: Bsc.Computing
+
